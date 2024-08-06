@@ -1,0 +1,18 @@
+# Fdb version 4
+["pdflatex"] 1722834300.82943 "c:/.code/AwesomeCV/examples/cv.tex" "cv.pdf" "cv" 1722834301.32685 2
+  "awesome-cv.cls" 1722777374 17 f892d761743de59d7f5e7b4d4accd528 ""
+  "c:/.code/AwesomeCV/examples/cv.tex" 1722834299 3919 7b243ce10b0e0a82ea266b0c84edf46f ""
+  "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1722794599 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "c:/texlive/2024/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1722793613 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
+  "c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1722796337 29785 9f93ab201fe5dd053afcc6c1bcf7d266 ""
+  "c:/texlive/2024/texmf-dist/web2c/texmf.cnf" 1722790150 42007 0b741a3c21a5ca32b40e3846e75b3548 ""
+  "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1722803721 8239313 c62abebfa4b21e133bf9c91f6f2e7d01 ""
+  "c:/texlive/2024/texmf.cnf" 1722803438 713 614551405fc44b98efbf516466e3c909 ""
+  "cv.aux" 1722834301 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "cv.tex" 1722834299 3919 7b243ce10b0e0a82ea266b0c84edf46f ""
+  "examples/cv/experience.tex" 0 -1 0 ""
+  (generated)
+  "cv.aux"
+  "cv.log"
+  "cv.pdf"
+  (rewritten before read)
